@@ -1,4 +1,4 @@
-package LeeCode;
+package Leet2025_11;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -9,7 +9,6 @@ import java.util.Set;
  * 2025.11.5
  */
 public class main3 {
-
     public static void main(String[] args) {
         Solution solution = new Solution();
         String s = "dvdf";
