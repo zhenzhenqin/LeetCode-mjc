@@ -45,6 +45,7 @@ public class main560 {
                 }
 
                 //将前缀值存入哈希表中
+                //getOrDefault : 如果哈希表中不存在这个值， 则返回0， 否则返回这个值的value
                 map.put(preSum, map.getOrDefault(preSum, 0) + 1);
             }
 
